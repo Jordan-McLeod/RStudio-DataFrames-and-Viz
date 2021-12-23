@@ -1,3 +1,3 @@
 # RStudio-Practice-and-Viz
 
-Data manipulation and visualization to understand how critic and audience reviews differ based on movie genre, budget, and year.
+Using RStudio to understand the relationships between movie genre, budget, audience ratings, critic ratings, and year.
